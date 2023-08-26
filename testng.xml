@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG Learning - Tsys">
+
+
+
+
+<test name="SherKhan test">
+    <classes>
+        <class name="CucumberOption.TestRunner" ></class>  
+    </classes>
+</test>
+
+
+
+
+</suite>
